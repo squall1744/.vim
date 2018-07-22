@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/shaoshuai/.jenv'
+let g:netrw_dirhist_2='/etc'
+let g:netrw_dirhist_3='/Users/shaoshuai/.config'
+let g:netrw_dirhist_4='/Users/shaoshuai/.jenv'
+let g:netrw_dirhist_5='/Users/shaoshuai/.emacs.d'

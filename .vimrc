@@ -52,6 +52,7 @@ Plug 'Quramy/tsuquyomi'
 Plug 'Yggdroot/indentLine'
 Plug 'w0rp/ale'
 Plug 'scrooloose/nerdcommenter'
+Plug 'tpope/vim-surround'
 
 call plug#end()
 
